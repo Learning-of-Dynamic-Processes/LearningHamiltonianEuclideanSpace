@@ -1,6 +1,6 @@
 # A Structure-Preserving Kernel Method for Learning Hamiltonian Systems
 This repository stores the implementation of the paper "A Structure-Preserving Kernel Method for Learning
-Hamiltonian Systems"
+Hamiltonian Systems" by Jianyu Hu, Juan-Pablo Ortega, and Daiying Yin
 
 # Abstract
 A structure-preserving kernel ridge regression method is presented that allows the recovery of
